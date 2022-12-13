@@ -8,18 +8,19 @@ GEM
       ruby2_keywords (~> 0.0.1)
     oj (3.13.19)
     rack (2.2.4)
-    rack-protection (2.2.2)
+    rack-protection (2.2.3)
       rack
     ruby2_keywords (0.0.5)
-    sinatra (2.2.2)
+    sinatra (2.2.3)
       mustermann (~> 2.0)
       rack (~> 2.2)
-      rack-protection (= 2.2.2)
+      rack-protection (= 2.2.3)
       tilt (~> 2.0)
     tilt (2.0.11)
 
 PLATFORMS
   x86_64-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   byebug
